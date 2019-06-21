@@ -1,4 +1,4 @@
-"use strict";
+"use strict2";
 
 var exec = require("child_process").exec;
 
